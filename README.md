@@ -1,7 +1,13 @@
 # Capstone Project
 
 ### Abstract 				
-This capstone project aims to raise public awareness of immigrants’ lack of social integration into their host communities in England. The focus of this project is twofold. First, performing a sentiment analysis on Twitter data (fetched from Twitter’s open API). Using Amazon’s AWS text analysis function, tweet polarity is extracted from tweet texts and used as a valuable indicator of public opinion on immigration. Second, crafting a compelling narrative to increase public awareness of immigrants’ hardship in their host communities, and suggest effective ways to help empower immigrants and strengthen their sense of belonging. The main deliverable is a scrolling website that incorporates these two components into an appealing and easy-to-use platform, which describes the immigration situation in England, ways to help better integration, and a geographical map to visualize trends in public opinion on immigration.			
+Using Twitter data, this capstone project takes public opinion as a proxy for community's attitude towards immigrants, and by consequence the predicted success of their integration. The goal is to produce a tool that can be used to visualize the differences in public opinion towards immigrants in different districts in England (through a geographical map). Ultimately, it could be beneficial to further relate community’s attitude to migrant integration and other related facts/events (e.g. reported racial discrimination in the area, job security, education level of immigrants etc...), and raise public awareness of the importance of creating a welcoming environment. 	
 
+**Keywords**: Sentiment analysis, Twitter data, public opinion, immigration, narrative, social integration, England. 
 
-Keywords: Sentiment analysis, Twitter data, public opinion, immigration, narrative, social integration, England. 
+### Data 
+
+The data used in this project consists of tweets posted by users on Twitter, which is retrieved using the Twitter API. A typical query would include the following components.
+(1) keyword 
+(2) location 
+(3) time window
