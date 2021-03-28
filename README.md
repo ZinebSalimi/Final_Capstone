@@ -8,6 +8,6 @@ Using Twitter data, this capstone project takes public opinion as a proxy for co
 ### Data 
 
 The data used in this project consists of tweets posted by users on Twitter, which is retrieved using the Twitter API. A typical query would include the following components.
-1. keyword 
-2. location 
-3. time window
+1. Keyword (Here, the keywords used were: immigration, immigrants, migrants, migration, “border control”, emigration, naturalize, naturalization, citizenship, non-citizenship, borders)
+2. Location (defined by the geolocalisation points surrounding each district - forms a polygon)
+3. time window 
