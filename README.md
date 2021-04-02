@@ -22,11 +22,11 @@ The tweets are then processed to translate the text to English (if it is not alr
 Amazon's AWS Comprehend service is used to extract the sentiment from the tweets. 
 
 Each tweet is given the following.
-● A “Sentiment” (one of 3 categories: Neutral, Positive, or Negative)
-● A “Mixed” score (quantifies how “mixed” the tweet’s sentiment is, on a 0-1 scale)
-● A “Positive” score (quantifies the positivity of the tweet, on a 0-1 scale)
-● A“Neutral” score (quantifies the neutrality of the tweet, on a 0-1 scale)
-● A “Negative” score (quantifies the negativity of the tweet, on a 0-1 scale)
+* A “Sentiment” (one of 3 categories: Neutral, Positive, or Negative)
+* A “Mixed” score (quantifies how “mixed” the tweet’s sentiment is, on a 0-1 scale)
+* A “Positive” score (quantifies the positivity of the tweet, on a 0-1 scale)
+* A “Neutral” score (quantifies the neutrality of the tweet, on a 0-1 scale)
+* A “Negative” score (quantifies the negativity of the tweet, on a 0-1 scale)
 
 
 ### Visualization 
@@ -35,7 +35,7 @@ For each year (2016 and 2020), a map is created, showing how negative and how po
 The results are as follows. 
 
 Negativity in 2016: 
-![Alt text](/Final_Capstone/Maps/map negative_2016.png?raw=true "Negativity in 2016")
+![Alt text](/../Final_Capstone/Maps/map_negative_2016.png?raw=true "Negativity in 2016")
 
 Negativity in 2020: 
 
