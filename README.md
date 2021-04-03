@@ -36,7 +36,7 @@ The results are as follows.
 
 Negativity in 2016: 
 
-![Screenshot] (./Maps/map_negative_2016.png)
+![] (Maps/map_negative_2016.png)
 
 Negativity in 2020: 
 
