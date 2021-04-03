@@ -35,7 +35,7 @@ For each year (2016 and 2020), a map is created, showing how negative and how po
 The results are as follows. 
 
 Negativity in 2016: 
-![Alt text](/../Final_Capstone/Maps/map_negative_2016.png?raw=true "Negativity in 2016")
+![Screenshot](/../Final_Capstone/Maps/map_negative_2016.png?raw=true "Negativity in 2016")
 
 Negativity in 2020: 
 
