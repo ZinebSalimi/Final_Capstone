@@ -39,7 +39,12 @@ Negativity in 2016:
 
 
 Negativity in 2020: 
+<img width="1315" alt="map_negative_2020" src="https://user-images.githubusercontent.com/41118293/113489063-ce8ade00-94b9-11eb-81e5-34a01ceda418.png">
+
 
 Positivity in 2016: 
+<img width="1314" alt="map_positive_2016" src="https://user-images.githubusercontent.com/41118293/113489068-d34f9200-94b9-11eb-9e06-eda5b876fa2a.png">
+
 
 Positivity in 2020: 
+<img width="1311" alt="map_positive_2020" src="https://user-images.githubusercontent.com/41118293/113489072-d8144600-94b9-11eb-86cd-c98e49d589d5.png">
