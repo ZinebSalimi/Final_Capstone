@@ -35,6 +35,8 @@ For each year (2016 and 2020), a map is created, showing how negative and how po
 The results are as follows. 
 
 Negativity in 2016: 
+<img width="1314" alt="map negative_2016" src="https://user-images.githubusercontent.com/41118293/113489047-b2873c80-94b9-11eb-9bed-af26822761d2.png">
+
 
 Negativity in 2020: 
 
